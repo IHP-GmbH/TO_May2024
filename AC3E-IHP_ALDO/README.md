@@ -1,19 +1,20 @@
+[![ReadTheDocs](https://img.shields.io/badge/Readthedocs-%23000000.svg?style=for-the-badge&logo=readthedocs&logoColor=white)](https://ac3e-ihp-aldo.readthedocs.io/en/latest)
+
 # AC3E-IHP_ALDO - Design example for IHP - Open Source PDK.
 
 > © Daniel Arevalos, Advanced Center for Electrical and Electronic Engineering (AC3E), Innovations for High Performance Microelectronics (IHP).
 
-This is a design made as an example for the IHP-Open-PDK technology.
+This is a design made as an example for the IHP-Open-PDK technology. The full documentation can be found in [readthedocs](https://ac3e-ihp-aldo.readthedocs.io/en/latest).
 
 ![](docs/source/fig/LDO_AC3E_nofill.png)
 
 ### Directory Structure
 
 ```
-├─ 📁 klayout
-├─ 📁 xschem
-├─ 📁 python
-├─ 📁 results
-└─ 📄Makefile.mk
+├─ 📁 design_data
+├─ 📁 docs
+├─ 📁 val
+└─ 📄README.md
 ```
 
 ### Overview
