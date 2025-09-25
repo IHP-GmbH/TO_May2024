@@ -6,16 +6,6 @@ This is a design made as an example for the IHP-Open-PDK technology.
 
 ![](docs/source/fig/LDO_AC3E_nofill.png)
 
-### Directory Structure
-
-```
-├─ 📁 klayout
-├─ 📁 xschem
-├─ 📁 python
-├─ 📁 results
-└─ 📄Makefile.mk
-```
-
 ### Overview
 
 The design consist in:
@@ -27,7 +17,7 @@ The design consist in:
 5. TGATE1: transmission gate for testing.
 6. TGATE2: transmission gate for testing. 
 
-<img width="500" src="docs/source/fig/LDO_AC3E_designs.png">
+<img width="500" src="doc/source/fig/LDO_AC3E_designs.png">
 
 Pin Number | Pin Name     | Type         | Description                              |
 |------| ------------ | ------------ | ---------------------------------------- |
