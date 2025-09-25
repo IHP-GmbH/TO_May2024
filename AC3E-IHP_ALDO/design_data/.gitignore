@@ -1,0 +1,8 @@
+*.spice
+*.cir
+*.lyrdb
+*.log
+results
+xschem/**/simulations/*
+docs/build
+IHP-Open-PDK
